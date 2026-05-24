@@ -6,6 +6,10 @@ Portafolio profesional desarrollado para presentar mi perfil como Ingeniero Info
 
 <br>
 
+<img src="img/imagen_portafolio.png" alt="Vista previa del portafolio web de Enzo Gómez Menchise" width="850"/>
+
+<br><br>
+
 <a href="https://enzomenchise2525.github.io/portafolio.cl/">
   <strong>Ver portafolio en vivo</strong>
 </a>
@@ -31,16 +35,6 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="55"/>
 
 </div>
-
-<br>
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-- FormSubmit
-- GitHub Pages
-
 ---
 
 ## Características del portafolio
@@ -56,17 +50,5 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 - Botón de descarga de CV.
 - Formulario de contacto funcional.
 - Integración con GitHub Pages para publicación web.
-
----
-
-## Secciones del sitio
-
-- Inicio
-- Sobre mí
-- Habilidades
-- Curriculum
-- Portafolio
-- Tecnologías
-- Contacto
 
 ---
