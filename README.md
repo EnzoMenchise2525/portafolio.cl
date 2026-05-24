@@ -6,10 +6,6 @@ Portafolio profesional desarrollado para presentar mi perfil como Ingeniero Info
 
 <br>
 
-<img src="img/imagen_portafolio.png" alt="Vista previa del portafolio web de Enzo Gómez Menchise" width="850"/>
-
-<br><br>
-
 <a href="https://enzomenchise2525.github.io/portafolio.cl/" target="_blank">
   <strong>Ver portafolio en vivo</strong>
 </a>
@@ -75,18 +71,6 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 
 ---
 
-## Vista en vivo
-
-<div align="center">
-
-<a href="https://enzomenchise2525.github.io/portafolio.cl/" target="_blank">
-  <strong>Acceder al portafolio publicado</strong>
-</a>
-
-</div>
-
----
-
 ## Autor
 
 **Enzo Gustavo Gómez Menchise**  
@@ -100,6 +84,16 @@ Valparaíso, Chile
 - **Email:** enzomenchise@gmail.com
 - **GitHub:** [enzomenchise2525](https://github.com/enzomenchise2525)
 - **Portafolio:** [enzomenchise2525.github.io/portafolio.cl](https://enzomenchise2525.github.io/portafolio.cl/)
+
+---
+
+## Vista previa del proyecto
+
+<div align="center">
+
+<img src="img/imagen_portafolio.png" alt="Vista previa del portafolio web de Enzo Gómez Menchise" width="850"/>
+
+</div>
 
 ---
 
