@@ -34,13 +34,6 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 
 <br>
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-- FormSubmit
-- GitHub Pages
-
 ---
 
 ## Características del portafolio
@@ -59,25 +52,6 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 
 ---
 
-## Secciones del sitio
-
-- Inicio
-- Sobre mí
-- Habilidades
-- Curriculum
-- Portafolio
-- Tecnologías
-- Contacto
-
----
-
-## Autor
-
-**Enzo Gustavo Gómez Menchise**  
-Ingeniero Informático  
-Valparaíso, Chile
-
----
 
 ## Contacto
 
