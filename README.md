@@ -10,7 +10,7 @@ Portafolio profesional desarrollado para presentar mi perfil como Ingeniero Info
 
 <br><br>
 
-<a href="https://enzomenchise2525.github.io/portafolio.cl/">
+<a href="https://enzomenchise2525.github.io/portafolio.cl/" target="_blank">
   <strong>Ver portafolio en vivo</strong>
 </a>
 
@@ -35,11 +35,21 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="55"/>
 
 </div>
+
+<br>
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- FormSubmit
+- GitHub Pages
+
 ---
 
 ## Características del portafolio
 
-- Diseño responsivo adaptable a distintos dispositivos.
+- Diseño responsivo adaptable a computador, tablet y teléfono.
 - Menú de navegación dinámico.
 - Sección de presentación profesional.
 - Información personal y perfil técnico.
@@ -52,3 +62,49 @@ El sitio tiene como objetivo centralizar mi información profesional, mostrando 
 - Integración con GitHub Pages para publicación web.
 
 ---
+
+## Secciones del sitio
+
+- Inicio
+- Sobre mí
+- Habilidades
+- Curriculum
+- Portafolio
+- Tecnologías
+- Contacto
+
+---
+
+## Vista en vivo
+
+<div align="center">
+
+<a href="https://enzomenchise2525.github.io/portafolio.cl/" target="_blank">
+  <strong>Acceder al portafolio publicado</strong>
+</a>
+
+</div>
+
+---
+
+## Autor
+
+**Enzo Gustavo Gómez Menchise**  
+Ingeniero Informático  
+Valparaíso, Chile
+
+---
+
+## Contacto
+
+- **Email:** enzomenchise@gmail.com
+- **GitHub:** [enzomenchise2525](https://github.com/enzomenchise2525)
+- **Portafolio:** [enzomenchise2525.github.io/portafolio.cl](https://enzomenchise2525.github.io/portafolio.cl/)
+
+---
+
+<div align="center">
+
+Desarrollado por **Enzo Gómez Menchise**
+
+</div>
