@@ -4,8 +4,6 @@
 
 Portafolio profesional desarrollado para presentar mi perfil como Ingeniero Informático, experiencia laboral, habilidades técnicas, proyectos, tecnologías y medios de contacto.
 
-<br>
-
 <p align="center">
   <a href="https://enzomenchise2525.github.io/portafolio.cl/" target="_blank">
     <strong>🌐 Ver portafolio en vivo →</strong>
